@@ -2,9 +2,10 @@
 
 # Azure Review Checklists
 
-A common request of many organisations, starting with the public cloud, is to have their design double-checked to make sure that best practices are being followed. The scope of this exercise could vary, from generic Azure landing zones to workload-specific deployments.
 
-When doing Azure design reviews (or any review for that matter), Microsoft employees and Microsoft partners often leverage Excel spreadsheets as the medium of choice to document findings and track design improvements and recommendations. A problem with Excel spreadsheets is that they are not easily subject to revision control. Additionally, team collaboration with branching, issues, pull requests, reviews, and others is difficult at best—impossible in most cases.
+많은 조직에서 공통적으로 요구하는 사항 중 하나는 퍼블릭 클라우드를 시작으로 설계가 모범 사례를 따르고 있는지 재검토하는 것입니다. 이 작업의 범위는 일반적인 Azure 랜딩 존부터 워크로드별 배포에 이르기까지 다양할 수 있습니다.
+
+Azure 설계 검토(또는 그 어떤 검토 작업이든)를 수행할 때 Microsoft 직원과 파트너사는 종종 발견 사항을 문서화하고 설계 개선 사항 및 권장 사항을 추적하기 위한 수단으로 Excel 스프레드시트를 활용합니다. Excel 스프레드시트의 문제점은 버전 관리가 쉽지 않다는 점입니다. 또한 분기, 이슈, 풀 리퀘스트, 검토 등 팀 협업은 최선의 경우에도 어렵고 대부분의 경우 불가능합니다.
 
 ![](./pictures/overview.png)
 
